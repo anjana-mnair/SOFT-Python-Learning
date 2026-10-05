@@ -2,7 +2,7 @@
 dog = {}
 
 # Exercise 2
-dog['name'] = 'Tommy'
+dog['name'] = 'Coco'
 dog['color'] = 'Brown'
 dog['breed'] = 'Labrador'
 dog['legs'] = 4
@@ -14,7 +14,7 @@ print(dog)
 # Exercise 3
 student = {
     'first_name': 'Anjana',
-    'last_name': 'Nair',
+    'last_name': ' M Nair',
     'gender': 'Female',
     'age': 18,
     'marital_status': 'Single',
